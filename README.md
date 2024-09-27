@@ -10,3 +10,4 @@
 
 
   - [AWS Organizations - DEMO ](https://github.com/farahjedidi/AWSOrganizations)
+  - [S3 Static Website Hosting - DEMO ](https://github.com/farahjedidi/Creating-a-static-website-with-S3)
