@@ -6,7 +6,7 @@
   - [Active Directory Home Lab](https://github.com/farahjedidi/ActiveDirectoryLab)
 
 
-<h2>☁️ AWS Certified Solutions Architect - Associate (SAA-C03) Preparation | Some of Adrian Cantrill's Course Demos :</h2>
+<h2>☁️ AWS Certified Solutions Architect - Associate (SAA-C03) Preparation | Some of Adrian Cantrill's Course Demos & Mini Projects :</h2>
 
 
   - [AWS Organizations - DEMO ](https://github.com/farahjedidi/AWSOrganizations)
