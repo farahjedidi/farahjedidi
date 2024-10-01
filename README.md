@@ -6,11 +6,11 @@
   - [Active Directory Home Lab](https://github.com/farahjedidi/ActiveDirectoryLab)
 
 
-<h2>☁️ AWS Certified Solutions Architect - Associate (SAA-C03) Preparation | Some of Adrian Cantrill's Course Demos & Mini Projects :</h2>
+<h2>☁️ AWS Certified Solutions Architect - Associate (SAA-C03) Preparation | Some of Adrian Cantrill's Course Demos :</h2>
 
 
   - [AWS Organizations - DEMO ](https://github.com/farahjedidi/AWSOrganizations)
   - [S3 Static Website Hosting - DEMO ](https://github.com/farahjedidi/S3StaticWebsiteHosting)
   - [SSE Object Encryption and Role Separation - DEMO ](https://github.com/farahjedidi/ObjectEncryptioANDRoleSeparation)
   - [Cross-Region Replication of an S3 Static Website - DEMO ](https://github.com/farahjedidi/CrossRegionReplication-S3StaticWebsite)
-  - [S3 Multi-Region Access Points - Mini Project ](https://github.com/farahjedidi/aws-s3-multi-region-access-point)
+  - [S3 Multi-Region Access Points - DEMO ](https://github.com/farahjedidi/aws-s3-multi-region-access-point)
