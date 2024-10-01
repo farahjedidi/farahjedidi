@@ -13,3 +13,4 @@
   - [S3 Static Website Hosting - DEMO ](https://github.com/farahjedidi/S3StaticWebsiteHosting)
   - [SSE Object Encryption and Role Separation - DEMO ](https://github.com/farahjedidi/ObjectEncryptioANDRoleSeparation)
   - [Cross-Region Replication of an S3 Static Website - DEMO ](https://github.com/farahjedidi/CrossRegionReplication-S3StaticWebsite)
+  - [S3 Multi-Region Access Points - Mini Project ](https://github.com/farahjedidi/aws-s3-multi-region-access-point)
