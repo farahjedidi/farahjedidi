@@ -15,3 +15,4 @@
   - [Cross-Region Replication of an S3 Static Website - DEMO ](https://github.com/farahjedidi/CrossRegionReplication-S3StaticWebsite)
   - [S3 Multi-Region Access Points - DEMO ](https://github.com/farahjedidi/aws-s3-multi-region-access-point)
   - [Multi-Tier VPC Subnets Implementation & Configuring Public Subnets and Jumpbox - DEMO ](https://github.com/farahjedidi/multi-tier-vpc-subnets-implementation)
+  - [Configuring EBS volumes in AWS - DEMO ]()
